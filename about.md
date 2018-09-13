@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I am a fifth year student at SFU. I am interested in biology and computer science and hope this course will allow me to blend the two.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I am taking another programming course this semester. I hope I don't get the two mixed up >_<
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[shelbyk@sfu.ca](mailto:shelbyk@sfu.ca)
